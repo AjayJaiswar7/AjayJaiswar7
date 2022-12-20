@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Python Developer.<br>🌱 I’m currently learning front End web development.
+🔭 I’m a Software Developer.<br>🌱 I’m currently learning front End web development.
 
 
 ## 🌐 Socials:
